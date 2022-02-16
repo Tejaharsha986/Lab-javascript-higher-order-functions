@@ -3,7 +3,7 @@ const foods =['pizza', 'burger', 'fingerChips', 'donuts','springRoll'];
 const modifiedFood = foods.slice(1,4);
 console.log(modifiedFood);
 
-//Array Splice
+//2 Array Splice
 //const foods =['pizza', 'burger', 'fingerChips', 'donuts','springRoll'];
 //const modifiedFood =foods.splice(2,0, 'noodles', 'icecream');
 console.log(foods);
